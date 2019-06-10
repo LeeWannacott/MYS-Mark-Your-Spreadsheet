@@ -1,2 +1,2 @@
 # MYS-Mark-Your-Spreadsheet.
-Software that marks spreadsheet's for lecturer's.
+Software that marks excel spreadsheet's for lecturer's.
