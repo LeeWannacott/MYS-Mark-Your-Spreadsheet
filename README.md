@@ -6,7 +6,4 @@ https://signal.ac.nz/shift/
 
 Group Members:
 
-Karl Bailey
-Kay Baldock
-Farrel Burns
-Lee Wannacott
+Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
