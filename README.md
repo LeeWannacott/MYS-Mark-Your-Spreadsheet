@@ -4,7 +4,7 @@ Software that marks excel spreadsheet's for lecturer's. MYS will compare the ans
 Mark Your Spreadsheet was developed as a project for the SHIFT programme run by Signal ICT Grad School in Dunedin - New Zealand.
 https://signal.ac.nz/shift/
 
-![Preview](https://raw.githubusercontent.com/LeeWannacott/MYS-Mark-Your-Spreedsheet/master/Mark-Your-Spreadsheet instructions.png)
+![Screenshot](https://raw.githubusercontent.com/LeeWannacott/MYS-Mark-Your-Spreedsheet/master/Mark-Your-Spreadsheet instructions.png)
 
 Group Members:
 
