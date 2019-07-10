@@ -10,7 +10,7 @@ Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
 # How to use MYS.
 
-Note: You can click on following images to make them bigger:
+Note: You can click on the following images to make them bigger:
 
 ```Instructions shown on User Interface. Refer to Readme pdf for indepth instructions.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
