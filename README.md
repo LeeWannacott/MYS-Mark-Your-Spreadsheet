@@ -13,3 +13,12 @@ Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
 ```Students details sheet needs to be added to front page of students xlsx workbooks. Downloadable from Github```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Student's%20details%20sheet.png)
+
+```Example of what the default processing option "All sheets" does. ```
+![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/CompareAllExample.png)
+
+```Example of what the second option "Highlighted areas" does.```
+![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/HighlightingCellsExample.png)
+
+```Example of summary marking sheet produced at the end. Note: You need to enable content for live linking.```
+![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/markingSummaryExample.png)
