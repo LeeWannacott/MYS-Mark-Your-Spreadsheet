@@ -11,4 +11,5 @@ Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 ```Instructions shown on User Interface. Refer to Readme pdf for indepth instructions.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
 
-
+```Students details sheet needs to be added to front page of students xlsx workbooks. Downloadable from Github```
+![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Student's%20details%20sheet.png)
