@@ -20,5 +20,5 @@ Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 ```Example of what the second option "Highlighted areas" does.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/HighlightingCellsExample.png)
 
-```Example of summary marking sheet produced at the end. Note: You need to enable content for live linking.```
+```Example of summary marking sheet produced at the end. Note: You need to enable content for live linking when prompted.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/markingSummaryExample.png)
