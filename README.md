@@ -8,7 +8,7 @@ Group Members:
 
 Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
-# Image's of how to use MYS and what it does
+# How to use MYS.
 
 Note: You can click on following images to make them bigger:
 
