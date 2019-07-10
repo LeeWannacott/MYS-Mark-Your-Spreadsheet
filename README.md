@@ -8,6 +8,8 @@ Group Members:
 
 Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
+Click on following images to make them bigger.
+
 ```Instructions shown on User Interface. Refer to Readme pdf for indepth instructions.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
 
