@@ -8,6 +8,8 @@ Group Members:
 
 Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
+Contact Email : MarkYourSpreadsheet@gmail.com
+
 # How to use MYS.
 
 Note: You can click on the following images to make them bigger:
