@@ -12,6 +12,8 @@ Contact Email : MarkYourSpreadsheet@gmail.com
 
 # How to use MYS.
 
+Note: If you want a demonstration of how the program works you can load the files in the "Example Files" foler.
+
 Note: You can click on the following images to make them bigger:
 
 First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable. Note: Windows may ask if you want to run the exe.
