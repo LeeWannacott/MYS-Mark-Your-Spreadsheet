@@ -1,5 +1,5 @@
 # MYS-Mark-Your-Spreadsheet.
-Software that marks (applies conditional formatting) excel spreadsheet's for a lecturer. MYS will compare an answer spreadsheet (template) with your student's assignment spreadsheet's (folder containing students xlsx files). The template is what you would like to be compared and is created by the lecturer.
+Software that marks (applies conditional formatting) excel spreadsheet's for a lecturer. MYS will compare an answer spreadsheet (template) with your student's assignments (folder containing students xlsx files). The template is what you would like to be compared and is created by the lecturer.
 
 Mark Your Spreadsheet was developed as a project for the SHIFT programme run by Signal ICT Grad School in Dunedin - New Zealand. The client was Otago Polytechnic's College of Enterprise and Development.
 
