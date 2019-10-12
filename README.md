@@ -15,7 +15,7 @@ If you want a hands on demonstration of how the program works you can load the f
 
 First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable. Windows may ask if you want to run the exe.
 
-You can click on the following images to make them bigger:
+Note: You may click on the following images to make them bigger:
 
 ```Instructions shown on User Interface. Refer to Readme pdf for indepth instructions.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
