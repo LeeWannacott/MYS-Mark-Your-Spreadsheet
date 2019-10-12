@@ -1,7 +1,7 @@
 # MYS-Mark-Your-Spreadsheet.
 Software that applies conditional formatting (highlighting) and then marks student excel spreadsheet's for lecturers. MYS will compare an answer spreadsheet (template) with your student's assignments (folder containing students xlsx files). The template is what you would like to be compared and is created by the lecturer. Refer to the images near the bottom of the document for examples.
 
-Mark Your Spreadsheet was developed as a project for the SHIFT programme run by Signal ICT Grad School in Dunedin - New Zealand. The client was Otago Polytechnic's College of Enterprise and Development.
+Mark Your Spreadsheet was developed as a project for the SHIFT programme run by Signal ICT Grad School in Dunedin - New Zealand. The client was Otago Polytechnic's College of Enterprise and Development. The program was built in Python.
 
 Group Members:
 
@@ -11,11 +11,12 @@ Contact Email : MarkYourSpreadsheet@gmail.com
 
 # How to use MYS.
 
-Note: If you want a hands on demonstration of how the program works you can load the files in the "Example files" folder.
+If you want a hands on demonstration of how the program works you can load the files in the "Example files" folder.
 
-First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable. Note: Windows may ask if you want to run the exe.
+First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable.
+Note: Windows may ask if you want to run the exe.
 
-Note: You can click on the following images to make them bigger:
+You can click on the following images to make them bigger:
 
 ```Instructions shown on User Interface. Refer to Readme pdf for indepth instructions.```
 ![Screenshot](https://github.com/LeeWannacott/MYS-Mark-Your-Spreadsheet/blob/master/Mark-Your-Spreadsheet%20instructions.png)
