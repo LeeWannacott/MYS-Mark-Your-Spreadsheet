@@ -13,8 +13,7 @@ Contact Email : MarkYourSpreadsheet@gmail.com
 
 If you want a hands on demonstration of how the program works you can load the files in the "Example files" folder.
 
-First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable.
-Note: Windows may ask if you want to run the exe.
+First step is clicking the hyperlink "MYS-V5.exe", downloading the exe file and double clicking to run the executable. Windows may ask if you want to run the exe.
 
 You can click on the following images to make them bigger:
 
