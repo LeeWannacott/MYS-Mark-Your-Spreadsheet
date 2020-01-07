@@ -3,11 +3,13 @@ Software that applies conditional formatting and marks student excel spreadsheet
 
 Mark Your Spreadsheet was developed as a project for the SHIFT programme run by Signal ICT Grad School in Dunedin - New Zealand. The client was Otago Polytechnic's College of Enterprise and Development. The program was built in Python.
 
+```
 Group Members:
 
 Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
 Contact Email : MarkYourSpreadsheet@gmail.com
+```
 
 # How to use MYS.
 
