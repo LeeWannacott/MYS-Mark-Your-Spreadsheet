@@ -14,7 +14,6 @@ Group Members:
 
 Karl Bailey, Kay Baldock, Farrel Burns, Lee Wannacott
 
-Contact Email : MarkYourSpreadsheet@gmail.com
 ```
 
 # How to use MYS.
